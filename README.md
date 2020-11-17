@@ -1,6 +1,6 @@
 # Desafio Venda.la
 
-A ideia deste desafio é fazer com que alguma API resolva o problema de interpretação do ZPL em um navegador web, ou seja, fazer o ZPL virar um HTML.
+O desafio é fazer um programa que converta o código ZPL para HTML.
 
 ## O que você precisa fazer
 
@@ -9,6 +9,17 @@ Você precisa criar uma API utilizando qualquer linguagem de programação que v
 ## Seria legal se você fizesse
 
 - Lumen
+- Rodar na Nuvem
+
+## Exemplos de ZPls
+
+```
+teste test teste
+testea
+adsf
+asdf
+asd
+```
 
 ## Premiação
 
